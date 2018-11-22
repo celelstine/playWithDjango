@@ -1,0 +1,5 @@
+-r base.txt
+
+pyflakes>=2.0.0
+coverage==4.5.2
+tox>=3.5.3
