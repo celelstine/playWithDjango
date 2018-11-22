@@ -105,3 +105,7 @@ venv.bak/
 
 # environment variable export
 env.sh
+
+
+.vscode
+.DS_Store
