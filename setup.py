@@ -29,7 +29,8 @@ setup(
         'dj-database-url==0.5.0',
         'Django==2.1.3',
         'psycopg2-binary==2.7.6.1',
-        'pytz==2018.7'
+        'pytz==2018.7',
+        'djangorestframework==3.9.0'
     ],
     tests_require=['tox']
 )
